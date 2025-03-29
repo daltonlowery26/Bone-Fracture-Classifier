@@ -1,8 +1,22 @@
-### Various PyTorch Projects
-*in progress*
+# Bone Fracture Classification
 
-#### items
+## -- Project Status: Active
 
-- fashion classifer to learn basic pytorch stucture and syntax
-- CNN to classify if an image is a bone fracture or not
+## Project Intro/Objective
 
+Using data soured from various medical repositiories, my goal was to build a CNN to classify if something is a fracture or not. The goal was to be able to identify any examples of a bone fracture, not only ones in a certian reigon of focus.
+
+### Methods Used
+
+
+## Project Description
+
+
+## Model Preformance
+
+* 72% accuracy on labeling fractures
+
+
+## Contact
+* Please contact with any questions
+* Email: dalton.lowery@emory.edu
