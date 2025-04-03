@@ -12,11 +12,6 @@ Using data soured from various medical repositiories, my goal was to build a CNN
 ## Project Description
 
 
-## Model Preformance
-
-* 72% accuracy on labeling fractures
-
-
 ## Contact
 * Please contact with any questions
 * Email: dalton.lowery@emory.edu
